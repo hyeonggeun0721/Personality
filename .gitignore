@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradle files
 .gradle/
 build/
@@ -32,3 +33,4 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
